@@ -68,7 +68,7 @@ You may:
 - **Request deletion** of your data
 - **Opt out of telemetry** by unchecking the telemetry option in the Blender MCP addon preferences. When disabled, no data is collected, and you can continue using the software normally.
 
-To exercise these rights, contact me at ahujasid@gmail.com.
+To exercise these rights, contact me at nihalshaju2002@gmail.com.
 
 **Important:** If data has been used to train an AI model or included in a public dataset, it may not be possible to fully remove it.
 
