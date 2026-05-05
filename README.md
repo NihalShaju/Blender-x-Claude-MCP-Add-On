@@ -1,24 +1,8 @@
 
 
-# BlenderMCP - Blender Model Context Protocol Integration
+# Blender x Calude - Blender Model Context Protocol Integration
 
 BlenderMCP connects Blender to Claude AI through the Model Context Protocol (MCP), allowing Claude to directly interact with and control Blender. This integration enables prompt assisted 3D modeling, scene creation, and manipulation.
-
-**We have no official website. Any website you see online is unofficial and has no affiliation with this project. Use them at your own risk.**
-
-[Full tutorial](https://www.youtube.com/watch?v=lCyQ717DuzQ)
-
-### Join the Community
-
-Give feedback, get inspired, and build on top of the MCP: [Discord](https://discord.gg/z5apgR8TFU)
-
-### Supporters
-
-[CodeRabbit](https://www.coderabbit.ai/)
-
-**All supporters:**
-
-[Support this project](https://github.com/sponsors/ahujasid)
 
 ## Current version(1.5.5)
 - Added Hunyuan3D support
@@ -284,4 +268,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Disclaimer
 
-This is a third-party integration and not made by Blender. Made by [Siddharth](https://x.com/sidahuj)
+This is a third-party integration and not made by Blender. **Use Them At Your Own Risk**
+
+Credits
+[Siddharth](https://x.com/sidahuj)
